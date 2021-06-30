@@ -12,4 +12,5 @@ var firstName = prompt('Quale è il tuo nome?');
 var surName = prompt('Quale è il tuo cognome?')
 var favouriteColor = prompt('Quale è il tuo colore preferito?')
 
+document.getElementById('fakelogin').innerHTML = firstName + surName + favouriteColor + '21'
 
