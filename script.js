@@ -4,4 +4,12 @@
 // Infine scrivi sulla pagina nomecognomecolorepreferito21
 
 
+var firstName
+var surName
+var favouriteColor
+
+var firstName = prompt('Quale è il tuo nome?');
+var surName = prompt('Quale è il tuo cognome?')
+var favouriteColor = prompt('Quale è il tuo colore preferito?')
+
 
